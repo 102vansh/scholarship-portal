@@ -70,9 +70,9 @@ Follow these steps to set up the Scholarship Management System on your local mac
 
 4. Start the frontend development server:
    ```
-   npm start
+   npm run dev
    ```
-   The frontend should now be accessible at `http://localhost:3000`
+   The frontend should now be accessible at `http://localhost:5173`
 
 ### Database Setup
 
@@ -90,7 +90,7 @@ Follow these steps to set up the Scholarship Management System on your local mac
 
 ### Testing the Setup
 
-1. Open your browser and go to `http://localhost:3000`
+1. Open your browser and go to `http://localhost:5173`
 
 2. You should see the login page of the Scholarship Management System.
 
