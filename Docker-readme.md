@@ -103,8 +103,8 @@ volumes:
    docker-compose up --build
    ```
 4. The application will be accessible at:
-   - **Frontend:** [http://localhost:3000](http://localhost:5173)
-   - **Backend API:** [http://localhost:3001](http://localhost:6001)
+   - **Frontend:** [http://localhost:5173](http://localhost:5173)
+   - **Backend API:** [http://localhost:6001](http://localhost:6001)
 
 ### Stopping the Application
 
